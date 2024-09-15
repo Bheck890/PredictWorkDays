@@ -3,7 +3,7 @@ This helps create copy and paste text that can be used <br />
 to place payment Dates into an excel spread sheet or detect days into an application
 
 ## Examples
-![alt text](Pictures/Example.png)
+![alt text](Pictures/Example.jpg)
 
 ## Built With
 * Visual Studio 2017 Community
